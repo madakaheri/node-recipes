@@ -46,7 +46,7 @@ Node.js構築のレシピをまとめています（随時更新）
 - [SPAとSSRとSSG](./docs/Web/SPAとSSRとSSG.md)
 - [ドキュメントサイト](./docs/Web/ドキュメントサイト.md)
 - [PWA](./docs/Web/PWA.md)
-- [Web Worker](./docs/Web/WebWorker.md)
+- [バックグランド処理](./docs/Web/バックグランド処理.md)
 
 ### サーバーサイド
 
