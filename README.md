@@ -28,7 +28,8 @@ Node.js構築のレシピをまとめています（随時更新）
 
 ### 開発環境
 
-- [package.json設定](./docs/開発環境/package.jsonの設定.md)
+- [nodeバージョン管理](./docs/開発環境/nodeバージョン管理.md)
+- [package.jsonの作成](./docs/開発環境/package.jsonの作成.md)
 - [コード整形](./docs/開発環境/コード整形.md)
 - [テスト](./docs/開発環境/テスト.md)
 - [JSDoc](./docs/開発環境/JSDoc.md)
