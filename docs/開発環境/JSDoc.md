@@ -1,6 +1,6 @@
 # JSDoc
 
-JSDoc はJavaScript内のコメントで TypeScript のように「型」を設定できる拡張機能です。  
+JSDoc はJavaScript内のコメントで TypeScript のように「型」を表現できる拡張機能です。  
 ＊ VSCodeなら何もインストールせずに使えます。
 
 ドキュメントは [こちら](https://www.typescriptlang.org/ja/docs/handbook/jsdoc-supported-types.html) に全て記述されています。
